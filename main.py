@@ -17,13 +17,14 @@ ssl_context.verify_mode = ssl.CERT_NONE
 # todo kluge
 
 
-# change the email here!
-email = "mybanana.candy@gmail.com"
 print("Made by GatoLouco, check https://github.com/gato-louco for updates and a tutorial")
 print("This script activates a 3 days trial account for exitlag")
 print("This script supposes that the password of the exitlag account's is gatolouco")
-print("version v1")
-input("Insert the account's email: ")
+print("version v1.0")
+print("")
+print("This script is created for educational purposes, I am not responsible for how the script is being used.")
+print("")
+email = input("Insert the account's email: ")
 # it is a password hash, it means 'gatolouco'. do not change it, otherwise it won't work :)
 password = "38cf4d8080c1a66172c4a91e76b822140f029e10a00e3615be6eb8a0f3331ffd"  # some_hash('gatolouco'+unknow_key)
 
