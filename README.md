@@ -5,4 +5,5 @@ Activate exitlag trial accounts
 - Download and install python and exitlag.
 - Download main.py to your Downloads folder.
 - On CMD, type `python Downloads/main.py`.
-- It should activate.
+- Type the account's email and press return.
+- It should activate the account.
