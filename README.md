@@ -2,6 +2,8 @@
 <img src="https://www.exitlag.com/img/exitlag.svg" width=120>
 Activate exitlag trial accounts
 
+![image](https://user-images.githubusercontent.com/53904508/128664596-e908f0d1-c222-47f4-8ce4-53d368e281cb.png)
+
 ## How to use?
 - Download and install <a href="https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l?activetab=pivot:overviewtab">python</a> and <a href="https://exitlag.com">exitlag</a>.
 - Download <a href="https://github.com/gato-louco/exitlag-account-activator/blob/main/main.py">main.py</a> to your Downloads folder.
